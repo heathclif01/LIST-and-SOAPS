@@ -1,2 +1,2 @@
 # LIST-and-SOAPS
-List of watched series and shows
+List of watched tv-series and shows
