@@ -6,5 +6,5 @@ Welcome to my GitHub repository where I've compiled a list of all the greatest T
 This repository contains a single text file:
 
 List.txt: A list of the greatest TV shows, series seasons, animes, and cartoons I have watched.
-Usage
+# Usage
 Feel free to browse through the list in List.txt to discover some amazing shows and series. If you have any recommendations or think I've missed something great, please open an issue or contribute!
