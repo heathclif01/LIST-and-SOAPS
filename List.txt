@@ -1851,8 +1851,10 @@
 1851:Psycho Saiyaan (Watched)
 1852:Toilet-bound Hanako-kun (Watched)
 1853:Sanwal Yaar Piya (Watched)
-1854:Sangamarmar (Watched)
+1854:Sangamarmar - Indian (Watched)
 1855:Scooped Up by an S-Ranked Adventurer (Watched)
+1856:Gachiakuta (Watched)
+1857:
 
 
 
